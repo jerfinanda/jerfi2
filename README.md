@@ -1,4 +1,4 @@
-## [url=https://k.top4top.io/p_1647x33do1.jpg][img]https://k.top4top.io/s_1647x33do1.jpg[/img][/url]
+## https://k.top4top.io/p_1647x33do1.jpg
 # Bots SB template 2020
  Selfbot line py3 terbaru 2020
  
