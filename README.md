@@ -1,4 +1,4 @@
-## https://k.top4top.io/p_1647x33do1.jpg
+# https://k.top4top.io/p_1647x33do1.jpg
 # Bots SB template 2020
  Selfbot line py3 terbaru 2020
  
@@ -8,7 +8,7 @@
 # 🔘 Wroks on TERMUX
 ## ======================
 ## WROKS 100 %
-#JHAILBOTS
+# JHAILBOTS
 
 # ADD 
 # CREATOR
