@@ -8,7 +8,9 @@
 #======================#
 ## WROKS 100 %
 #JHAILBOTS
-#AGOEST JHAIL 
-# THANKS TO ALL MASTAH
-## ADD LINE
-# http://line.me/ti/p/~@781dscco
+
+# add 
+# CREATOR
+## http://line.me/ti/p/~tikus___churot
+# LINE OA
+## http://line.me/ti/p/~@781dscco
