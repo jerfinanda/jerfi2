@@ -22,7 +22,7 @@ import json, requests, LineService
 from thrift.transport import THttpClient
 
 botStart = time.time()
-cl = LINE("tikus.churot@gmail.com","jhail123")
+cl = LINE("muzaronidulamah@gmail.com","polytron11")
 #cl = LINE("YOUR TOKEN")
 #cl = LINE("Email","Password")
 
